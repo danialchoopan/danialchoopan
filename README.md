@@ -1,16 +1,20 @@
+### danial choopan
+
 ### Hi there 👋
+- 🌱 I’m currently learning Architecture Design and flutter.
+- 🌱 I’m currently improving android-developer.
+- ⚡ Languages: Kotlin, Java, dart
+- 📫 How to reach me: [![Email](https://img.shields.io/badge/-Email-000?&labelColor=000&logo=gmail&link=mailto:danialchpan@gmail.com)](mailto:danialchpan@gmail.com)
+- ⚡ Subscribe to my youtube farsi channel: [the developer daniru](https://www.youtube.com/channel/UCswUjWvdNlB_5yx0gzdH6Tw)
+- ⚡ English youtube channel soon!
+- 😄 Fun fact: Nobody is going to read this
+<hr>
 
-<!--
-**danialchoopan/danialchoopan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=danialchoopan&color=brightgreen)
+ 
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danialchoopan&show_icons=true&theme=dracula)
 
-Here are some ideas to get you started:
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danialchoopan&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats?theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
