@@ -5,8 +5,6 @@
 - 🌱 I’m currently improving android-developer.
 - ⚡ Languages: Kotlin, Java
 - 📫 How to reach me: [![Email](https://img.shields.io/badge/-Email-000?&labelColor=000&logo=gmail&link=mailto:danialchpan@gmail.com)](mailto:danialchpan@gmail.com)
-- ⚡ Subscribe to my youtube farsi channel: [the developer daniru](https://www.youtube.com/channel/UCswUjWvdNlB_5yx0gzdH6Tw)
-- ⚡ English youtube channel soon!
 - 😄 Fun fact: Nobody is going to read this
 <hr>
 
