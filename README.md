@@ -2,11 +2,13 @@
 
 ### Hi there 👋
 - 🌱 I’m currently learning Architecture Design.
-- 🌱 I’m currently improving android-developer.
-- ⚡ Languages: Kotlin, Java
+- 🌱 I’m working on improving my skills in Android development (Kotlin and Flutter) and Python.
+- ⚡ Languages: Kotlin, Java, Python
 - 📫 How to reach me: [![Email](https://img.shields.io/badge/-Email-000?&labelColor=000&logo=gmail&link=mailto:danialchpan@gmail.com)](mailto:danialchpan@gmail.com)
 - 😄 Fun fact: Nobody is going to read this
+- 😂 Funny fact: I’m probably just here to pretend to work while binge-watching 🎥
 <hr>
+
 
 ![](https://komarev.com/ghpvc/?username=danialchoopan&color=brightgreen)
  
