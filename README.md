@@ -6,7 +6,6 @@
 - ⚡ Languages: Kotlin, Java, Python
 - 📫 How to reach me: [![Email](https://img.shields.io/badge/-Email-000?&labelColor=000&logo=gmail&link=mailto:danialchpan@gmail.com)](mailto:danialchpan@gmail.com)
 - 😄 Fun fact: Nobody is going to read this
-- 😂 Funny fact: I’m probably just here to pretend to work while binge-watching 🎥
 <hr>
 
 
