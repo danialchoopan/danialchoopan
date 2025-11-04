@@ -1,9 +1,8 @@
 ### danial choopan
 
 ### Hi there 👋
-- 🌱 I’m currently learning Architecture Design.
-- 🌱 I’m working on improving my skills in Android development (Kotlin and Flutter) and Python.
-- ⚡ Languages: Kotlin, Java, Python
+- 🌱 I’m working on improving my skills in Backend development (Kotlin and Flutter) and Python.
+- ⚡ Languages: Kotlin, Java, Python, JS, PHP
 - 📫 How to reach me: [![Email](https://img.shields.io/badge/-Email-000?&labelColor=000&logo=gmail&link=mailto:danialchpan@gmail.com)](mailto:danialchpan@gmail.com)
 - 😄 Fun fact: Nobody is going to read this
 <hr>
