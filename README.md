@@ -1,7 +1,6 @@
 ### سلام دنیا! من دانیال هستم 👋 🚀
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=danialchoopan&color=deepskyblue&style=flat-square" alt="بازدیدها" />
   ![](https://komarev.com/ghpvc/?username=danialchoopan&color=brightgreen)
 </p>
 
