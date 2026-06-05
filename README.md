@@ -1,8 +1,6 @@
 ### سلام دنیا! من دانیال هستم 👋 🚀
 
-<p align="left">
-  ![](https://komarev.com/ghpvc/?username=danialchoopan&color=brightgreen)
-</p>
+![](https://komarev.com/ghpvc/?username=danialchoopan&color=brightgreen)
 
 - 🎯 **در حال حاضر:** روی توسعه مهارت‌های بک‌اند (.NET / C# 💻)، کاتلین (Kotlin ☕) و پایتون (Python 🐍) تمرکز دارم.
 - 🛠️ **تکنولوژی‌های مورد علاقه:** توسعه سیستم‌های بک‌اند قدرتمند با ASP.NET Core، برنامه‌نویسی اندروید و اسکریپت‌نویسی پیشرفته.
