@@ -2,6 +2,7 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=danialchoopan&color=deepskyblue&style=flat-square" alt="بازدیدها" />
+  ![](https://komarev.com/ghpvc/?username=danialchoopan&color=brightgreen)
 </p>
 
 - 🎯 **در حال حاضر:** روی توسعه مهارت‌های بک‌اند (.NET / C# 💻)، کاتلین (Kotlin ☕) و پایتون (Python 🐍) تمرکز دارم.
