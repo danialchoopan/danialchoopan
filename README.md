@@ -1,18 +1,36 @@
-### danial choopan
+### سلام دنیا! من دانیال هستم 👋 🚀
 
-### Hi there 👋
-- 🌱 I’m working on improving my skills in Backend development (Kotlin and Flutter) and Python.
-- ⚡ Languages: Kotlin, Java, Python, JS, PHP
-- 📫 How to reach me: [![Email](https://img.shields.io/badge/-Email-000?&labelColor=000&logo=gmail&link=mailto:danialchpan@gmail.com)](mailto:danialchpan@gmail.com)
-- 😄 Fun fact: Nobody is going to read this
-<hr>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=danialchoopan&color=deepskyblue&style=flat-square" alt="بازدیدها" />
+</p>
 
+- 🎯 **در حال حاضر:** روی توسعه مهارت‌های بک‌اند (.NET / C# 💻)، کاتلین (Kotlin ☕) و پایتون (Python 🐍) تمرکز دارم.
+- 🛠️ **تکنولوژی‌های مورد علاقه:** توسعه سیستم‌های بک‌اند قدرتمند با ASP.NET Core، برنامه‌نویسی اندروید و اسکریپت‌نویسی پیشرفته.
+- ⚡ **زبان‌های برنامه‌نویسی:** C#, Kotlin, Java, Python, JavaScript, PHP
+- 📫 **ارتباط با من:** [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:danialchpan@gmail.com)
+- 😄 **نکته جالب:** «هیچ‌کس قرار نیست این متن رو بخونه...» ولی خب، تو الان خوندی‌ش! 😉
 
-![](https://komarev.com/ghpvc/?username=danialchoopan&color=brightgreen)
- 
- 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danialchoopan&show_icons=true&theme=dracula)
+---
 
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danialchoopan&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats?theme=dracula)
+### 🛠️ تخصص‌ها و ابزارها (Skills & Tools)
 
+<p align="left">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+---
+
+### 📊 آمار و ارقام گیت‌هاب من (GitHub Stats)
+
+<p align="center">
+  <!-- کارت آمار کلی - استفاده از میرور پایدار و ضد تحریم -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=danialchoopan&show_icons=true&theme=dracula&locale=en" alt="آمار گیت‌هاب دانیال" width="48%" />
+  
+  <!-- کارت زبان‌های برتر - استفاده از میرور پایدار و ضد تحریم -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danialchoopan&layout=compact&theme=dracula&locale=en" alt="زبان‌های برتر دانیال" width="48%" />
+</p>
