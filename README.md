@@ -1,12 +1,3 @@
-### سلام دنیا! من دانیال هستم 👋 🚀
-
-![](https://komarev.com/ghpvc/?username=danialchoopan&color=brightgreen)
-
-- 🎯 **در حال حاضر:** روی توسعه مهارت‌های بک‌اند (.NET / C# 💻)، کاتلین (Kotlin ☕) و پایتون (Python 🐍) تمرکز دارم.
-- 🛠️ **تکنولوژی‌های مورد علاقه:** توسعه سیستم‌های بک‌اند قدرتمند با ASP.NET Core، برنامه‌نویسی اندروید و اسکریپت‌نویسی پیشرفته.
-- ⚡ **زبان‌های برنامه‌نویسی:** C#, Kotlin, Java, Python, JavaScript, PHP
-- 📫 **ارتباط با من:** [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:danialchpan@gmail.com)
-- 😄 **نکته جالب:** «هیچ‌کس قرار نیست این متن رو بخونه...» ولی خب، تو الان خوندی‌ش! 😉
 ### Hello World! I'm Danial 👋 🚀
 
 ![](https://komarev.com/ghpvc/?username=danialchoopan&color=brightgreen)
@@ -16,6 +7,17 @@
 - ⚡ **Programming languages:** C#, Kotlin, Java, Python, JavaScript, PHP
 - 📫 **Contact me:** [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:danialchpan@gmail.com)
 - 😄 **Fun fact:** "No one is going to read this text..." But well, you just read it! 😉
+
+### سلام دنیا! من دانیال هستم 👋 🚀
+
+![](https://komarev.com/ghpvc/?username=danialchoopan&color=brightgreen)
+
+- 🎯 **در حال حاضر:** روی توسعه مهارت‌های بک‌اند (.NET / C# 💻)، کاتلین (Kotlin ☕) و پایتون (Python 🐍) تمرکز دارم.
+- 🛠️ **تکنولوژی‌های مورد علاقه:** توسعه سیستم‌های بک‌اند قدرتمند با ASP.NET Core، برنامه‌نویسی اندروید و اسکریپت‌نویسی پیشرفته.
+- ⚡ **زبان‌های برنامه‌نویسی:** C#, Kotlin, Java, Python, JavaScript, PHP
+- 📫 **ارتباط با من:** [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:danialchpan@gmail.com)
+- 😄 **نکته جالب:** «هیچ‌کس قرار نیست این متن رو بخونه...» ولی خب، تو الان خوندی‌ش! 😉
+
 ---
 
 ### 🛠️ تخصص‌ها و ابزارها (Skills & Tools)
