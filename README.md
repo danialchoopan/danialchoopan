@@ -7,7 +7,15 @@
 - ⚡ **زبان‌های برنامه‌نویسی:** C#, Kotlin, Java, Python, JavaScript, PHP
 - 📫 **ارتباط با من:** [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:danialchpan@gmail.com)
 - 😄 **نکته جالب:** «هیچ‌کس قرار نیست این متن رو بخونه...» ولی خب، تو الان خوندی‌ش! 😉
+### Hello World! I'm Danial 👋 🚀
 
+![](https://komarev.com/ghpvc/?username=danialchoopan&color=brightgreen)
+
+- 🎯 **Currently:** Focusing on developing backend skills (.NET / C# 💻), Kotlin (Kotlin ☕), and Python (Python 🐍).
+- 🛠️ **Favorite technologies:** Developing powerful backend systems with ASP.NET Core, Android programming, and advanced scripting.
+- ⚡ **Programming languages:** C#, Kotlin, Java, Python, JavaScript, PHP
+- 📫 **Contact me:** [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:danialchpan@gmail.com)
+- 😄 **Fun fact:** "No one is going to read this text..." But well, you just read it! 😉
 ---
 
 ### 🛠️ تخصص‌ها و ابزارها (Skills & Tools)
