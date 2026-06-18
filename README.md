@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=danialchoopan&color=brightgreen)
 
-- 🎯 **Currently:** Focusing on developing backend skills (.NET / C# 💻), Kotlin (Kotlin ☕), and Python (Python 🐍).
+- 🎯 **Currently:** Focusing on developing backend skills (.NET / C# 💻), Kotlin (Kotlin ☕), and Python (Python 🐍) and Java.
 - 🛠️ **Favorite technologies:** Developing powerful backend systems with ASP.NET Core, Android programming, and advanced scripting.
 - ⚡ **Programming languages:** C#, Kotlin, Java, Python, JavaScript, PHP
 - 📫 **Contact me:** [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:danialchpan@gmail.com)
